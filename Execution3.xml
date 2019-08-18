@@ -1,0 +1,44 @@
+<log4j:event logger="com.automation.Testing_Allprograms" timestamp="1560925163568" level="INFO" thread="main">
+<log4j:message><![CDATA[Intialize chrome driver]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.automation.Testing_Allprograms" timestamp="1560925163601" level="INFO" thread="main">
+<log4j:message><![CDATA[Manage the timeout]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.automation.Testing_Allprograms" timestamp="1560925165409" level="INFO" thread="main">
+<log4j:message><![CDATA[Open the chrome browser]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.automation.Testing_Allprograms" timestamp="1560925170771" level="INFO" thread="main">
+<log4j:message><![CDATA[close the broswer]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.automation.Testing_Allprograms" timestamp="1561013248563" level="INFO" thread="main">
+<log4j:message><![CDATA[Intialize chrome driver]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.automation.Testing_Allprograms" timestamp="1561013248644" level="INFO" thread="main">
+<log4j:message><![CDATA[Manage the timeout]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.automation.Testing_Allprograms" timestamp="1561013302649" level="INFO" thread="main">
+<log4j:message><![CDATA[Intialize chrome driver]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.automation.Testing_Allprograms" timestamp="1561013302671" level="INFO" thread="main">
+<log4j:message><![CDATA[Manage the timeout]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.automation.Testing_Allprograms" timestamp="1561013312405" level="INFO" thread="main">
+<log4j:message><![CDATA[Intialize chrome driver]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.automation.Testing_Allprograms" timestamp="1561013312429" level="INFO" thread="main">
+<log4j:message><![CDATA[Manage the timeout]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.automation.Testing_Allprograms" timestamp="1561013313463" level="INFO" thread="main">
+<log4j:message><![CDATA[Open the chrome browser]]></log4j:message>
+</log4j:event>
+

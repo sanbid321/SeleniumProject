@@ -1,0 +1,7 @@
+   ControlFocus("Open","","Edit1")
+   Sleep(1000)
+   ControlSetText("Open","","Edit1","E:\SessionWorkspace\Selenium\resources\Autoit\Resume.txt")
+   Sleep(1000)
+   ControlFocus("Open","&Open","Button1")
+   Sleep(1000)
+   ControlClick("Open","&Open","Button1")

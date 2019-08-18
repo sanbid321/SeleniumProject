@@ -1,0 +1,40 @@
+<log4j:event logger="com.automation.Log4jDemo2" timestamp="1560602524546" level="INFO" thread="main">
+<log4j:message><![CDATA[I am Info Level]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.automation.Log4jDemo2" timestamp="1560602524550" level="DEBUG" thread="main">
+<log4j:message><![CDATA[I am Debug Level]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.automation.Log4jDemo2" timestamp="1560602524550" level="WARN" thread="main">
+<log4j:message><![CDATA[I am Warning Level]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.automation.Log4jDemo2" timestamp="1560602524550" level="ERROR" thread="main">
+<log4j:message><![CDATA[I am Error Level]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.automation.Log4jDemo2" timestamp="1560602524550" level="FATAL" thread="main">
+<log4j:message><![CDATA[I am Fatal Level]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.automation.Log4jDemo2" timestamp="1560602792482" level="INFO" thread="main">
+<log4j:message><![CDATA[I am Info Level]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.automation.Log4jDemo2" timestamp="1560602792486" level="DEBUG" thread="main">
+<log4j:message><![CDATA[I am Debug Level]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.automation.Log4jDemo2" timestamp="1560602792486" level="WARN" thread="main">
+<log4j:message><![CDATA[I am Warning Level]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.automation.Log4jDemo2" timestamp="1560602792486" level="ERROR" thread="main">
+<log4j:message><![CDATA[I am Error Level]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.automation.Log4jDemo2" timestamp="1560602792487" level="FATAL" thread="main">
+<log4j:message><![CDATA[I am Fatal Level]]></log4j:message>
+</log4j:event>
+

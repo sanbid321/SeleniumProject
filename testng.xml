@@ -1,0 +1,14 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Suite" parallel="tests">
+	<test name="TestNGDemo">
+		<classes>
+		<class name="com.automation.TestNGDemo"></class>
+			<class name="com.automation.TestPractice" />
+		</classes>
+	</test>
+
+	<!-- <test name="TestNGDemo1"> <classes>https://marketplace.eclipse.org/content/testng-eclipse 
+		<class name="com.automation.TestNGDemo"></class> </classes> </test> -->
+</suite>

@@ -1,0 +1,36 @@
+<log4j:event logger="com.automation.Log4jDemo" timestamp="1560601991806" level="INFO" thread="main">
+<log4j:message><![CDATA[Driver Initialise the chrome browser]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.automation.Log4jDemo" timestamp="1560601991831" level="INFO" thread="main">
+<log4j:message><![CDATA[Page Load Timeout set]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.automation.Log4jDemo" timestamp="1560601991838" level="INFO" thread="main">
+<log4j:message><![CDATA[Implicit wait set]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.automation.Log4jDemo" timestamp="1560601992997" level="INFO" thread="main">
+<log4j:message><![CDATA[Maximize the Browser]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.automation.Log4jDemo" timestamp="1560601993010" level="INFO" thread="main">
+<log4j:message><![CDATA[Delete All Cookies]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.automation.Log4jDemo" timestamp="1560601994714" level="INFO" thread="main">
+<log4j:message><![CDATA[Enter an URL]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.automation.Log4jDemo" timestamp="1560601997714" level="INFO" thread="main">
+<log4j:message><![CDATA[Wait delibarately for 3 seconds]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.automation.Log4jDemo" timestamp="1560601999883" level="INFO" thread="main">
+<log4j:message><![CDATA[Crome Browser is closed]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.automation.Log4jDemo" timestamp="1560601999883" level="INFO" thread="main">
+<log4j:message><![CDATA[Program Execution is Stopped]]></log4j:message>
+</log4j:event>
+
