@@ -5,7 +5,7 @@
 	<test name="TestNGDemo">
 		<classes>
 		<class name="com.automation.TestNGDemo"></class>
-			<class name="com.automation.TestPractice" />
+		<class name="com.automation.TestPractice" />
 		</classes>
 	</test>
 
